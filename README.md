@@ -1,0 +1,1 @@
+Les fonctionnalités de modification pour les produits et les catégories sont volontairement délaisser car j'ai supposé qu'un simple setter suffit (si ma comprehension du sujet est bonne);
